@@ -4,4 +4,4 @@
 
 **동국대학교 공개소프트웨어 소속 팀 '다국적 기업'에서 프로젝트를 진행하였습니다**
 
-yeonsik님의 nlp-filter-out-main/SKTBrain님의 kobert 프로젝트를 기반으로 하였습니다
+yeonsikch님의 nlp-filter-out/SKTBrain님의 kobert 프로젝트를 기반으로 하였습니다
